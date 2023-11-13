@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Hassan Mohamed/OneDrive/Desktop/test_printf",
-      "program": "c:/Users/Hassan Mohamed/OneDrive/Desktop/test_printf/build/Debug/outDebug",
+      "cwd": "c:/Users/Hassan Mohamed/OneDrive/Desktop/test_2_printf",
+      "program": "c:/Users/Hassan Mohamed/OneDrive/Desktop/test_2_printf/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
